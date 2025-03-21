@@ -29,5 +29,5 @@ The platform utilizes a **structured MongoDB database** with the following colle
 ## 🏗 Setup & Installation  
 1. **Clone the Repository**  
    ```sh
-   git clone https://github.com/yourusername/fundraising-platform.git
+   git clone https://github.com/No-one9/fundraising-platform.git
    cd fundraising-platform
